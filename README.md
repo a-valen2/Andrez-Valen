@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C5G5F&height=260&section=header&text=Andreza%20Valen&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C5G5F&height=260&section=header&text=Andrez%20Valen&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 
