@@ -190,7 +190,7 @@ I build it because it creates a better foundation for what comes next.
 <p align="center">
 
 <b>
-Andreza Valen
+Andrez Valen
 </b>
 
 <br>
